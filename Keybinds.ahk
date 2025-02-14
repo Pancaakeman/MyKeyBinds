@@ -8,3 +8,4 @@
 !V::Run "D:\Virtual Studio code\Microsoft VS Code\Code.exe"
 !D::Run "C:\Users\Admin\AppData\Local\Discord\app-1.0.9059\Discord.exe"
 !F::Run "C:\Program Files\Mozilla Firefox\firefox.exe"
+!T::Run "C:\Users\Admin\AppData\Roaming\.minecraft\TLauncher.exe"
